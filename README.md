@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Artemis-Flow
+- 👋 Hi, I’m @Artemis Flow
 - 👀 I’m interested in translating and IT
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on the VertaalDB
